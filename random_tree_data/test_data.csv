@@ -1,4 +1,4 @@
-gender,age,height(cm),weight(kg),waist(cm),eyesight(left),eyesight(right),hearing(left),hearing(right),systolic,relaxation,fasting blood sugar,Cholesterol,triglyceride,HDL,LDL,hemoglobin,Urine protein,serum creatinine,AST,ALT,Gtp,dental caries,tartar,smoking,bmi,healthy weight,eyesight_total,vision,hearing_impairment
+gender,age,height(cm),weight(kg),waist(cm),eyesight(left),eyesight(right),hearing(left),hearing(right),systolic,relaxation,fasting_blood_sugar,cholesterol,triglyceride,hdl,ldl,hemoglobin,urine_protein,serum_creatinine,ast,alt,gtp,dental_caries,tartar,smoking,bmi,healthy_weight,eyesight_total,vision,hearing_impairment
 1,35,175,65,73.7,0.7,1.0,1.0,1.0,116.0,72.0,94.0,163.0,108.0,60.0,81.0,15.3,1.0,0.9,17.0,3.0,15.0,0,1,0,21.22,0.0,1.7,1,0
 0,40,155,40,59.0,1.0,1.0,1.0,1.0,124.0,75.0,93.0,148.0,71.0,59.0,75.0,11.5,1.0,0.8,24.0,15.0,12.0,0,0,0,16.65,-1.0,2.0,1,0
 0,75,145,40,68.5,0.7,0.7,1.0,1.0,112.0,66.0,89.0,207.0,126.0,48.0,134.0,11.1,1.0,1.1,21.0,10.0,13.0,0,0,0,19.02,0.0,1.4,1,0
